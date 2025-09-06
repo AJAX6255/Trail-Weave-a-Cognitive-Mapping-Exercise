@@ -1,0 +1,5 @@
+{
+  "name": "Trail Weave - a Cognitive Mapping Exercise",
+  "description": "A puzzle game where players connect a sequence of numbered and lettered nodes in the correct order to complete the trail. Exercise is timed and errors are logged.",
+  "requestFramePermissions": []
+}
